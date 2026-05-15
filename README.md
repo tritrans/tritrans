@@ -1,37 +1,74 @@
-# 👋 Hi there
+# 👋 Hi there, I'm Tri Tran
 
-📫 How to reach me: tri@gmail.com
+💻 Fullstack Developer | Mobile Developer
+🚀 Passionate about building scalable web & mobile applications
 
-![](https://komarev.com/ghpvc/?username=tritrans&color=green)
----
+📫 Contact: [tri@gmail.com](mailto:tri@gmail.com)
 
-## About me 👦
-
-I am Fullstack Developer student  
-I am interested in learning Programming Languages and growing my knowledge.
-
-- 🌱 I’m currently learning Fullstack Development
-- ⚡ Fun fact: I love coding 24x7
+        ![](https://komarev.com/ghpvc/?username=tritrans&color=green)   
 
 ---
 
-## Connect with me 🤝
+## 👨‍💻 About Me
 
-- Facebook: 
-- GitHub:
+I am a Fullstack Developer student with a strong passion for software development and modern technologies.
+Currently focusing on building real-world applications using backend, frontend, and mobile technologies.
 
----
-
-## 🚀 My Skills
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+* 🌱 Currently learning and improving Fullstack Development skills
+* 📱 Interested in Mobile App Development with Flutter
+* ⚡ Enjoy solving problems and learning new technologies
+* 🚀 Goal: Become a professional Software Engineer
 
 ---
 
-## 📊 GitHub Stats
+## 🛠 Tech Stack
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=phuongdenpro&show_icons=true&theme=tokyonight)
+### Backend
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phuongdenpro&layout=compact&theme=tokyonight)
+* Java (Spring Boot)
+* ASP.NET
+* PHP (Laravel)
+* Node.js
+
+### Frontend
+
+* React.js
+* Next.js
+
+### Mobile
+
+* Flutter
+* Dart
+
+### Database
+
+* MySQL
+* PostgreSQL
+* SQL Server
+* MongoDB
+* Redis
+* Firebase
+
+### Tools
+
+* Jira
+* Trello
+* Notion
+* Postman
+* Figma
+* CI/CD
+* Docker
+* Swagger
+
+---
+
+## 🤝 Connect With Me
+
+* Facebook:
+* GitHub: https://github.com/tritrans
+
+---
+
+## 🚀 Motto
+
+> “Keep learning, keep building, and never stop improving.”

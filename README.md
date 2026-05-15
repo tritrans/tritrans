@@ -2,6 +2,7 @@
 
 📫 How to reach me: tri@gmail.com
 
+![](https://komarev.com/ghpvc/?username=tritrans&color=green)
 ---
 
 ## About me 👦

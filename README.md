@@ -1,73 +1,127 @@
 # 👋 Hi there, I'm Tri Tran
 
-💻 Fullstack Developer | Mobile Developer
-🚀 Passionate about building scalable web & mobile applications
+💻 Fullstack Developer | Mobile Developer  
+🚀 Passionate about building scalable web & mobile applications  
 
-📫 Contact: [tri@gmail.com](mailto:tri@gmail.com)
+📫 Contact: tri@gmail.com  
 
-        ![](https://komarev.com/ghpvc/?username=tritrans&color=green)   
-
----
-
-## 👨‍💻 About Me
-
-I am a Fullstack Developer student with a strong passion for software development and modern technologies.
-Currently focusing on building real-world applications using backend, frontend, and mobile technologies.
-
-* 🌱 Currently learning and improving Fullstack Development skills
-* 📱 Interested in Mobile App Development with Flutter
-* ⚡ Enjoy solving problems and learning new technologies
-* 🚀 Goal: Become a professional Software Engineer
+![](https://komarev.com/ghpvc/?username=tritrans&color=green)
 
 ---
 
-## 🛠 Tech Stack
+# 👨‍💻 About Me
 
-### Backend
+I am a passionate Fullstack & Mobile Developer who loves building modern, scalable, and user-friendly applications.  
+Currently focusing on improving real-world development skills and exploring modern software architectures.
 
-* Java (Spring Boot)
-* ASP.NET
-* PHP (Laravel)
-* Node.js
-
-### Frontend
-
-* React.js
-* Next.js
-
-### Mobile
-
-* Flutter (Dart)
-
-### Database
-
-* MySQL
-* PostgreSQL
-* SQL Server
-* MongoDB
-* Redis
-* Firebase
-
-### Tools
-
-* Jira
-* Trello
-* Notion
-* Postman
-* Figma
-* CI/CD
-* Docker
-* Swagger
+- 🌱 Currently learning and improving Fullstack Development
+- 📱 Focused on Mobile App Development with Flutter
+- ⚡ Passionate about clean architecture & scalable systems
+- 🚀 Goal: Become a professional Software Engineer
+- 💡 Love learning new technologies and building useful products
 
 ---
 
-## 🤝 Connect With Me
+# 🚀 Tech Stack
 
-* Facebook:
-* GitHub: https://github.com/tritrans
+## 📱 Mobile Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
+
+## 🌐 Frontend Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts" />
+</p>
+
+## ⚙️ Backend Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,nestjs,php,laravel" />
+</p>
+
+## 🗄 Database
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis" />
+</p>
+
+## ☁️ Cloud & DevOps
+<p align="left">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker" />
+</p>
+
+## 🛠 Tools & Platforms
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,notion,vscode,visualstudio,eclipse,linux,windows" />
+</p>
 
 ---
 
-## 🚀 Motto
+# 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tritrans/tritrans/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tritrans/tritrans/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tritrans/tritrans/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tritrans&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tritrans&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tritrans&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+<a href="https://github.com/tritrans">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tritrans&theme=tokyo-night"/>
+</a>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://facebook.com/yourfacebook">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+&nbsp;
+
+<a href="https://linkedin.com/in/yourlinkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+
+<a href="mailto:tri@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Motto
 
 > “Keep learning, keep building, and never stop improving.”
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>

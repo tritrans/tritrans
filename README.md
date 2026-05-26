@@ -1,5 +1,14 @@
 # 👋 Hi there, I'm Tri Tran
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Tran+Minh+Tri;Frontend+Developer+🚀;Mobile+Developer+🚀;Backend+Developer+⚡;FullStack+Developer+⚡;Building+Projects+Every+Day+🔥;Code+•+Learn+•+Repeat+💻"/>
+</p>
+
+<p align="center">
+<img width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,50:2563EB,100:9333EA&text=Phuong%20Dinh%20Phan&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=38&desc=Frontend%20Developer%20•Mobile%20Developer%20•%20Backend%20Developer%20•%20Fullstack%20Learner&descAlign=50&descAlignY=62"/>
+</p>
+
 💻 Fullstack Developer | Mobile Developer  
 🚀 Passionate about building scalable web & mobile applications  
 

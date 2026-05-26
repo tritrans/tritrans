@@ -37,8 +37,7 @@ Currently focusing on building real-world applications using backend, frontend, 
 
 ### Mobile
 
-* Flutter
-* Dart
+* Flutter (Dart)
 
 ### Database
 

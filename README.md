@@ -50,12 +50,17 @@ Currently focusing on improving real-world development skills and exploring mode
 </p>
 
 ## 🛠 Tools & Platforms
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,notion,jira,trello" />
-</p>
 
 <p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,notion" />
+
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+
 </p>
 ---
 

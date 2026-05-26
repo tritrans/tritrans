@@ -3,7 +3,7 @@
 💻 Fullstack Developer | Mobile Developer  
 🚀 Passionate about building scalable web & mobile applications  
 
-📫 Contact: tri@gmail.com  
+📫 Contact: tritranminh484@gmail.com  
 
 ![](https://komarev.com/ghpvc/?username=tritrans&color=green)
 
@@ -36,7 +36,7 @@ Currently focusing on improving real-world development skills and exploring mode
 
 ## ⚙️ Backend Development
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,nestjs,php,laravel" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,nodejs,php,laravel" />
 </p>
 
 ## 🗄 Database
@@ -46,14 +46,17 @@ Currently focusing on improving real-world development skills and exploring mode
 
 ## ☁️ Cloud & DevOps
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker" />
+<img src="https://skillicons.dev/icons?i=aws,docker" />
 </p>
 
 ## 🛠 Tools & Platforms
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,notion,vscode,visualstudio,eclipse,linux,windows" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma,notion,jira,trello" />
 </p>
 
+<p align="left">
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+</p>
 ---
 
 # 🐍 Contribution Snake
@@ -106,7 +109,7 @@ Currently focusing on improving real-world development skills and exploring mode
 </a>
 &nbsp;
 
-<a href="mailto:tri@gmail.com">
+<a href="mailto:tritranminh484@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 

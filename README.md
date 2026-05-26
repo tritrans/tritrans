@@ -80,12 +80,12 @@ Currently focusing on improving real-world development skills and exploring mode
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tritrans&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tritrans&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=tritrans&show_icons=true&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tritrans&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tritrans&show_icons=true&layout=compact&theme=tokyonight"/>
 </p>
 
 ---

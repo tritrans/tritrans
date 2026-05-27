@@ -73,7 +73,7 @@ Currently focusing on improving real-world development skills and exploring mode
 </p>
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tritrans/tritrans/output/github-contribution-grid-snake-dark.svg">
@@ -143,3 +143,7 @@ Currently focusing on improving real-world development skills and exploring mode
 ### ⭐ Thanks for visiting my profile!
 
 </div>
+<p align="center">
+<img width="500"
+src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+</p>
